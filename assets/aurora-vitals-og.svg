@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Aurora Vitals</title>
+  <desc id="desc">Recovery, sleep and body load at a glance</desc>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientTransform="translate(930 100) rotate(135) scale(680 560)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4B3EA3"/>
+      <stop offset=".6" stop-color="#13243B"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="810" y1="480" x2="1130" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#79E5FF"/>
+      <stop offset=".52" stop-color="#9C83FF"/>
+      <stop offset="1" stop-color="#FF7AB8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="44" fill="url(#bg)"/>
+  <circle cx="965" cy="315" r="174" fill="none" stroke="url(#ring)" stroke-width="42" stroke-linecap="round" stroke-dasharray="890 205" transform="rotate(118 965 315)"/>
+  <circle cx="965" cy="315" r="124" fill="#07111F" fill-opacity=".78" stroke="#D6F5FF" stroke-opacity=".18"/>
+  <text x="965" y="325" fill="#F6F9FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="98" font-weight="700" text-anchor="middle">78</text>
+  <text x="965" y="382" fill="#79E5FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="28" font-weight="700" text-anchor="middle">READY</text>
+  <text x="78" y="154" fill="#79E5FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="25" font-weight="700" letter-spacing="4">AURORA VITALS</text>
+  <text x="78" y="258" fill="#F6F9FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="66" font-weight="700">Recovery, sleep</text>
+  <text x="78" y="336" fill="#F6F9FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="66" font-weight="700">&amp; body load.</text>
+  <text x="78" y="412" fill="#AEBDD0" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="31">Understand your day in 10 seconds.</text>
+  <rect x="78" y="476" width="180" height="54" rx="27" fill="#79E5FF" fill-opacity=".11" stroke="#79E5FF" stroke-opacity=".35"/>
+  <text x="168" y="511" fill="#DDF9FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" text-anchor="middle">No account</text>
+  <rect x="278" y="476" width="255" height="54" rx="27" fill="#9C83FF" fill-opacity=".11" stroke="#9C83FF" stroke-opacity=".38"/>
+  <text x="405" y="511" fill="#E8E2FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" text-anchor="middle">On-device data</text>
+</svg>
